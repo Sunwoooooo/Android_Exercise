@@ -134,3 +134,4 @@ public class CamPreview extends AppCompatActivity
         }
     };
 }
+
