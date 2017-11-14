@@ -1,0 +1,1 @@
+﻿Create table members ( _id integer primary key autoincrement, Name text not null, PhoneNo text not null);

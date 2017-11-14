@@ -1,0 +1,1 @@
+﻿Insert into members (Name, PhoneNo) Values ('Sunwoo', '010-6605-0703');
