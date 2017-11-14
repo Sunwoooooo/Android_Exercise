@@ -21,5 +21,16 @@
 > 17. CameraPreviewOnCompass
 * * *
 
-### 1. MyActivity 실습
-액티비티 2개를 이용한 간단한 화면 전환
+#### 1. MyActivity 실습
+액티비티 2개와 Intent를 이용한 간단한 화면 전환 실습
+
+
+#### 2. MyBroadcast 실습
+broadcast를 이용하여 버튼 클릭 시 토스트 메시지 출력 실습
+
+
+#### 3. MyService 실습
+.aidl 파일을 추가하고, Controller 액티비티를 통한 서비스 구현 실습
+
+
+#### 4. 
