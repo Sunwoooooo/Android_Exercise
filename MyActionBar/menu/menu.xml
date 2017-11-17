@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/actionbar_search"
+        android:title="Search"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/actionbar_camera"
+        android:title="Camera"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/actionbar_button2"
+        android:title="액션버튼2"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="always|withText">
+    </item>
+
+    <item
+        android:id="@+id/actionbar_setting"
+        android:title="설정"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/actionbar_about"
+        android:title="문의"
+        android:icon="@mipmap/ic_launcher"
+        app:showAsAction="ifRoom">
+    </item>
+</menu>
