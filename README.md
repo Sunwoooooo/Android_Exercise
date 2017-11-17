@@ -20,6 +20,7 @@
 > 16. CameraPreview
 > 17. CameraPreviewOnCompass
 > 18. MyFragment
+> 19. MyActionBar
 * * *
 
 #### 1. MyActivity
